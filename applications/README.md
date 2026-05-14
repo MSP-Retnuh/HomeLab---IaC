@@ -4,13 +4,13 @@ Docker Compose configurations for various homelab applications and services.
 
 ## Application Folders
 
-### 🌉 [Media Bridge](./media-portal)
+### 🌉 [Media Bridge](./DUMB)
 Debrid Unlimited integration for seamless media streaming.
 
-### 📺 [Arr Stack](./arr-stack)
+### 📺 [Arr Stack](./media-portal)
 Complete media management suite (Sonarr, Radarr, Lidarr, Readarr, Prowlarr).
 
-### 📹 [Media Portal](./media-portal)
+### 📹 [Media Portal](./DUMB)
 Jellyfin media server with Jellyseerr request management and Jellyprobe monitoring.
 
 ### 🔐 [Secure Vault](./secure-vault)
