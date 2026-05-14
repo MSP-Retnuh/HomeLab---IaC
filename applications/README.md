@@ -4,7 +4,7 @@ Docker Compose configurations for various homelab applications and services.
 
 ## Application Folders
 
-### 🌉 [Media Bridge](./media-bridge)
+### 🌉 [Media Bridge](./media-portal)
 Debrid Unlimited integration for seamless media streaming.
 
 ### 📺 [Arr Stack](./arr-stack)
