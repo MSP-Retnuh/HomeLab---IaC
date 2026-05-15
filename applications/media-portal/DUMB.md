@@ -127,7 +127,7 @@ stop_grace_period: 30s    # Allow clean shutdown
 
 1. **Start container:** `docker-compose up -d DUMB`
 2. **Wait for startup:** Full initialization takes ~20 minutes
-3. **Access admin:** http://localhost:8182
+3. **Access admin:** http://localhost:3005
 4. **Configure Debrid:**
    - Enter Debrid API keys
    - Authorize account
