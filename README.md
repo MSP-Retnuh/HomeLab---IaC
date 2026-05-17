@@ -103,22 +103,10 @@ HomeLab---IaC/
 
 This project utilizes:
 
-- **Infrastructure:** *[Add your preferred IaC tool - Terraform, Ansible, etc.]*
-- **Virtualization:** *[Add your virtualization platform]*
-- **Containerization:** *[Docker, Kubernetes, etc.]*
-- **Monitoring:** *[Add monitoring tools]*
+- **Virtualization:** *[Proxmox Virtual Enviroment]*
+- **Containerization:** *[Docker]*
+- **Monitoring:** *[Uptime Kuma, Autoheal, Self-developed solutions]*
 - **Version Control:** Git & GitHub
-
----
-
-## 📖 Documentation
-
-Comprehensive documentation is available in the [docs/](./docs) directory:
-
-- **[Architecture Guide](./docs/architecture.md)** - Detailed infrastructure design
-- **[Setup Instructions](./SETUP.md)** - Step-by-step deployment guide
-- **[Troubleshooting Guide](./docs/troubleshooting.md)** - Common issues and solutions
-- **[Best Practices](./docs/best-practices.md)** - IaC and homelab best practices
 
 ---
 
@@ -147,12 +135,6 @@ This homelab infrastructure is provided as-is for educational and personal use. 
 
 ---
 
-## 📝 License
-
-This project is open source. For license details, see the [LICENSE](./LICENSE) file.
-
----
-
 ## 💬 Questions & Support
 
 For questions, issues, or suggestions:
@@ -160,9 +142,3 @@ For questions, issues, or suggestions:
 - Open an [Issue](https://github.com/MSP-Retnuh/HomeLab---IaC/issues)
 - Check existing [Discussions](https://github.com/MSP-Retnuh/HomeLab---IaC/discussions)
 - Review the [Wiki](https://github.com/MSP-Retnuh/HomeLab---IaC/wiki)
-
----
-
-**Happy Labbing! 🎉**
-
-*Last Updated: May 14, 2026*
